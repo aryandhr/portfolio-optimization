@@ -8,7 +8,7 @@ Simple intuitive way to calculate slippage. Difference between price at the time
 ### 2. Half-spread cost
 Difference between best ask price and best bid price, divided by 2. Suggests transaction cost taking into account potential price movement after order is filled.
 
-Detailed explanations for #1 and #2 in [a relative link]()
+Detailed explanations for #1 and #2 in [transaction costs guide](transation-costs-guide.pdf)
 
 ### 3. Weighted mid-price
 Used to construct micro-price which can beconsidered to be the ‘fair’ price of an asset. The micro-price may be expressed as an adjustment to the mid-price that takes into account the bid-ask spread and the imbalance.
