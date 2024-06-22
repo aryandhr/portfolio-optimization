@@ -1,6 +1,6 @@
 # Blockhouse Work Trial
 
-10 additional features
+10 additional features: [RL-PPO-v2 (6)](RL-PPO-v2 (6).ipynb)
 
 ### 1. Arrival cost
 Simple intuitive way to calculate slippage. Difference between price at the time of order placement and price at which order is filled.
