@@ -1,6 +1,7 @@
 # Blockhouse Work Trial
 
-10 additional features: ([RL-PPO-v2 (6).ipynb](https://github.com/aryandhr/blockhouse-work-trial/blob/main/RL-PPO-v2%20(6).ipynb))
+Slippage implementation 1: [Slippage in Futures Markets](https://github.com/aryandhr/blockhouse-work-trial/blob/main/slippage-implementation-1.ipynb)
+10 additional features: [RL-PPO-v2 (6).ipynb](https://github.com/aryandhr/blockhouse-work-trial/blob/main/RL-PPO-v2%20(6).ipynb)
 
 ### 1. Arrival cost
 Simple intuitive way to calculate slippage. Difference between price at the time of order placement and price at which order is filled.
