@@ -1,4 +1,4 @@
-# Blockhouse Work Trial
+# Slippage Calculations
 
 Slippage implementation 1: [Portfolio Optimization with Linear and Fixed Transaction Costs](https://github.com/aryandhr/blockhouse-work-trial/blob/main/slippage-implementation-1.ipynb) <br>
 Slippage implementation 2: [Slippage in Futures Markets](https://github.com/aryandhr/blockhouse-work-trial/blob/main/slippage-implementation-2.ipynb) <br>
